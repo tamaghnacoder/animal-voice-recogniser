@@ -1,0 +1,22 @@
+body{
+    font-family: 'DynaPuff', cursive;
+}
+.header_div{
+    background:rgb(81, 82, 74);
+    color:white;
+}
+.header_div p{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+}
+.main_div button{
+    font-family:'Roboto', sans-serif;
+    margin-top: 30px;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+.copy_right_footer{
+    position: fixed;
+    color: grey;
+}
